@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T05:36:30.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="2AEZJ7z8nni0beZ6vyuQ" version="20.8.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-15T05:38:35.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="64ju43eeUPU5xcFUzyRT" version="20.8.17" type="github" pages="3">
   <diagram name="Class-Component Diagram" id="tN8uLuXOzsBfRLoObBfo">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,13 +20,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gHI1wh3OLJMY0HO-9cVS-5" value="IPartProgramService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338.5" y="40" width="150" height="70" as="geometry" />
+          <mxGeometry x="80.5" y="20" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gHI1wh3OLJMY0HO-9cVS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="gHI1wh3OLJMY0HO-9cVS-7" target="gHI1wh3OLJMY0HO-9cVS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gHI1wh3OLJMY0HO-9cVS-7" value="PartProgramService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298" y="150" width="231" height="70" as="geometry" />
+          <mxGeometry x="40" y="130" width="231" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gHI1wh3OLJMY0HO-9cVS-9" value="Bootstrapper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="460" width="180" height="50" as="geometry" />
@@ -56,8 +56,17 @@
         <mxCell id="Z2ioSQjGqXeD9OmyDvvL-3" value="ParserVM" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="680" y="710" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="L8UWCzY0MIkuJdprBjOx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="620" y="40" width="170" height="50" as="geometry" />
+        <mxCell id="L8UWCzY0MIkuJdprBjOx-1" value="IApplicationSetting" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="20" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5NG_5QKY2Lqr-K4K0LjF-1" value="IStringResourceService" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="135" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5NG_5QKY2Lqr-K4K0LjF-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="310" as="sourcePoint" />
+            <mxPoint x="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
