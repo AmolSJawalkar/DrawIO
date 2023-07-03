@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T04:25:46.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="XpNYpZAYaPWiyTwt0dy0" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-03T04:30:16.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="r34z9ZcgY4gv4zt0hqDx" version="21.3.5" type="github">
   <diagram name="Page-1" id="yT5Fr_4KWCaXBi1Gqpkg">
-    <mxGraphModel dx="2927" dy="2267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,16 +134,19 @@
           <mxGeometry x="205" y="170.00189873417722" width="160" height="70.8860759493671" as="geometry" />
         </mxCell>
         <mxCell id="72nNHfJ5VNIHJHVC7PwM-17" value="Work on different areas of application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="72nNHfJ5VNIHJHVC7PwM-57">
-          <mxGeometry x="60" y="270.0011392405064" width="170" height="70.8860759493671" as="geometry" />
+          <mxGeometry x="35" y="264.0011392405064" width="170" height="70.8860759493671" as="geometry" />
         </mxCell>
         <mxCell id="72nNHfJ5VNIHJHVC7PwM-28" value="Git submodule understanding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="72nNHfJ5VNIHJHVC7PwM-57">
-          <mxGeometry x="320" y="270.00455696202533" width="170" height="70.8860759493671" as="geometry" />
+          <mxGeometry x="228" y="262.00455696202533" width="170" height="70.8860759493671" as="geometry" />
         </mxCell>
         <mxCell id="72nNHfJ5VNIHJHVC7PwM-40" value="Development Process Automation(Source Monitor)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="72nNHfJ5VNIHJHVC7PwM-57">
           <mxGeometry x="390" y="170" width="150" height="70.89" as="geometry" />
         </mxCell>
         <mxCell id="72nNHfJ5VNIHJHVC7PwM-44" value="Addition in Explore Automation Suite" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="72nNHfJ5VNIHJHVC7PwM-57">
-          <mxGeometry x="195" y="360.00455696202533" width="170" height="70.8860759493671" as="geometry" />
+          <mxGeometry x="143" y="357.00455696202533" width="170" height="70.8860759493671" as="geometry" />
+        </mxCell>
+        <mxCell id="72nNHfJ5VNIHJHVC7PwM-59" value="Challenging Work(Data Stitching)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;rotation=-45;" vertex="1" parent="72nNHfJ5VNIHJHVC7PwM-57">
+          <mxGeometry x="365" y="310.00455696202533" width="170" height="70.8860759493671" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
