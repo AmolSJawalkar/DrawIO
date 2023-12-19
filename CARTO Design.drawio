@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T03:15:19.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.11" etag="ZWV5B2kWyYlCL-1tfIHZ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T03:17:42.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="5rcukygKyW-Q2-0sdwL9" version="22.1.11" type="github">
   <diagram name="Page-1" id="S8XedO3I4k9fm92-Elhz">
-    <mxGraphModel>
+    <mxGraphModel dx="1489" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_pc;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="800" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.intune_managed_app" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoWXDP93CDQ-f-DaR6RQ-10" target="FoWXDP93CDQ-f-DaR6RQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.intune_managed_app" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.intune_managed_app" vertex="1" parent="1">
+          <mxGeometry x="590" y="130" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FoWXDP93CDQ-f-DaR6RQ-2" target="FoWXDP93CDQ-f-DaR6RQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FoWXDP93CDQ-f-DaR6RQ-4" target="FoWXDP93CDQ-f-DaR6RQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-9" value="Explore" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FoWXDP93CDQ-f-DaR6RQ-3" target="FoWXDP93CDQ-f-DaR6RQ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="190" as="sourcePoint" />
+            <mxPoint x="470" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-10" value="Capture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-12" value="Compensate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="585" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FoWXDP93CDQ-f-DaR6RQ-13" value="&lt;b&gt;MongoDB&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
