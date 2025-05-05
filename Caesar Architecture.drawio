@@ -151,16 +151,16 @@
         <mxCell id="AtKZkPcU0iFPJ2RVdHrF-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="570" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-8" value="Capture test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-8" value="Capture test" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="50" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-9" value="Save test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-9" value="Save test" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-10" value="Calibrate Ballbar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-10" value="Calibrate Ballbar" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="290" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-11" value="Quick Check" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-11" value="Quick Check" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="540" y="330" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AtKZkPcU0iFPJ2RVdHrF-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AtKZkPcU0iFPJ2RVdHrF-8" target="AtKZkPcU0iFPJ2RVdHrF-11">
@@ -169,7 +169,7 @@
             <mxPoint x="490" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-14" value="Multi Plane capture" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-14" value="Multi Plane capture" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="50" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AtKZkPcU0iFPJ2RVdHrF-15" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AtKZkPcU0iFPJ2RVdHrF-8" target="AtKZkPcU0iFPJ2RVdHrF-14">
@@ -178,7 +178,7 @@
             <mxPoint x="490" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-16" value="Setup Ballbar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-16" value="Setup Ballbar" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="550" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AtKZkPcU0iFPJ2RVdHrF-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1" source="AtKZkPcU0iFPJ2RVdHrF-16" target="AtKZkPcU0iFPJ2RVdHrF-11">
@@ -220,7 +220,7 @@
             <mxPoint x="74.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-25" value="Analyze test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AtKZkPcU0iFPJ2RVdHrF-25" value="Analyze test" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="390" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AtKZkPcU0iFPJ2RVdHrF-26" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AtKZkPcU0iFPJ2RVdHrF-25">
