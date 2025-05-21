@@ -61,6 +61,12 @@
         <mxCell id="q3kBi8KNVVEpbpXcGzCK-21" value="Ballbar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="30" y="394" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="q3kBi8KNVVEpbpXcGzCK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="q3kBi8KNVVEpbpXcGzCK-28" target="q3kBi8KNVVEpbpXcGzCK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q3kBi8KNVVEpbpXcGzCK-28" value="&lt;span style=&quot;text-align: left;&quot;&gt;TraceTestDocuments should be moved to CAESAR as its Ballbar related database&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="160" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
