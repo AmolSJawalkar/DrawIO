@@ -13,7 +13,7 @@
         <mxCell id="oskmTqdVWgGtZdyMERT5-3" value="&lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;IFileParser Get&lt;/span&gt;Parser(string filePath)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="oskmTqdVWgGtZdyMERT5-1">
           <mxGeometry y="29" width="230" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="oskmTqdVWgGtZdyMERT5-5" value="IFileParser" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="oskmTqdVWgGtZdyMERT5-5" value="ITestFileParser" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="30" y="180" width="140" height="54" as="geometry" />
         </mxCell>
         <mxCell id="oskmTqdVWgGtZdyMERT5-7" value="ITest Build()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="oskmTqdVWgGtZdyMERT5-5">
