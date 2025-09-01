@@ -245,11 +245,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h0E26nr1PbzfBnKHNJE3" name="DB Design">
-    <mxGraphModel dx="2711" dy="2382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qA75HR39hsxsS02LZcgE-2" value="IXtProgramSession" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="qA75HR39hsxsS02LZcgE-2" value="IXtProgramSession" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="60" width="140" height="79" as="geometry" />
         </mxCell>
         <mxCell id="qA75HR39hsxsS02LZcgE-4" value="Guid SessionId" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="qA75HR39hsxsS02LZcgE-2">
@@ -258,8 +258,8 @@
         <mxCell id="qA75HR39hsxsS02LZcgE-15" value="Guid SpecificationId" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="qA75HR39hsxsS02LZcgE-2">
           <mxGeometry y="54" width="140" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="qA75HR39hsxsS02LZcgE-5" value="IXtProgramSpecification" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="600" width="230" height="104" as="geometry" />
+        <mxCell id="qA75HR39hsxsS02LZcgE-5" value="IXtProgramSpecification" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="230" height="104" as="geometry" />
         </mxCell>
         <mxCell id="qA75HR39hsxsS02LZcgE-7" value="Guid _id" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="qA75HR39hsxsS02LZcgE-5">
           <mxGeometry y="29" width="230" height="25" as="geometry" />
@@ -270,8 +270,8 @@
         <mxCell id="qA75HR39hsxsS02LZcgE-28" value="string Key" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="qA75HR39hsxsS02LZcgE-5">
           <mxGeometry y="79" width="230" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="qA75HR39hsxsS02LZcgE-8" value="LiteDbProgramMeta" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="230" width="360" height="129" as="geometry" />
+        <mxCell id="qA75HR39hsxsS02LZcgE-8" value="LiteDbProgramMeta" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="243" width="360" height="129" as="geometry" />
         </mxCell>
         <mxCell id="qA75HR39hsxsS02LZcgE-22" value="MetadataKey Key" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="qA75HR39hsxsS02LZcgE-8">
           <mxGeometry y="29" width="360" height="25" as="geometry" />
@@ -285,8 +285,8 @@
         <mxCell id="qA75HR39hsxsS02LZcgE-35" value="object Value" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="qA75HR39hsxsS02LZcgE-8">
           <mxGeometry y="104" width="360" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="qA75HR39hsxsS02LZcgE-11" value="LiteDbSessionMeta" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="680" width="340" height="129" as="geometry" />
+        <mxCell id="qA75HR39hsxsS02LZcgE-11" value="LiteDbSessionMeta" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-17" width="340" height="129" as="geometry" />
         </mxCell>
         <mxCell id="qA75HR39hsxsS02LZcgE-12" value="&amp;nbsp;MetadataKey Key" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="qA75HR39hsxsS02LZcgE-11">
           <mxGeometry y="29" width="340" height="25" as="geometry" />
@@ -316,26 +316,26 @@
         <mxCell id="qA75HR39hsxsS02LZcgE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="qA75HR39hsxsS02LZcgE-31" target="qA75HR39hsxsS02LZcgE-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qA75HR39hsxsS02LZcgE-31" value="This should be number of types of programs&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="610" y="602" width="100" height="100" as="geometry" />
+        <mxCell id="qA75HR39hsxsS02LZcgE-31" value="This should be number of types of programs&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="480" y="272" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qA75HR39hsxsS02LZcgE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="qA75HR39hsxsS02LZcgE-33" target="qA75HR39hsxsS02LZcgE-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qA75HR39hsxsS02LZcgE-33" value="This should number of measurements + (Session which are not finalized)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="qA75HR39hsxsS02LZcgE-33" value="This should number of measurements + (Session which are not finalized)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-340" y="55" width="250" height="89" as="geometry" />
         </mxCell>
         <mxCell id="qA75HR39hsxsS02LZcgE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="qA75HR39hsxsS02LZcgE-36" target="qA75HR39hsxsS02LZcgE-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qA75HR39hsxsS02LZcgE-36" value="This is structure is used to remember user choices for particular type of program. Like &quot;LastUsedDevices&quot;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="214.5" width="140" height="160" as="geometry" />
+        <mxCell id="qA75HR39hsxsS02LZcgE-36" value="This is structure is used to remember user choices for particular type of program. Like &quot;LastUsedDevices&quot;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#333333;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="227.5" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="qA75HR39hsxsS02LZcgE-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="qA75HR39hsxsS02LZcgE-38" target="qA75HR39hsxsS02LZcgE-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qA75HR39hsxsS02LZcgE-38" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;This structure stores all of meta data captured or required during a session and this data is available for all session.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Ex&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1.Title&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2.UsedDevices&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3.RerferenceMode&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4.PointInterval&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5.Operator&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6.NumberofCoordinatesX&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;7.MeasurementSnapshot&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;8.FilterPrecision&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;9.and more...&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" width="279" height="256" as="geometry" />
+        <mxCell id="qA75HR39hsxsS02LZcgE-38" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;This structure stores all of meta data captured or required during a session and this data is available for all session.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Ex&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1.Title&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2.UsedDevices&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3.RerferenceMode&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4.PointInterval&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5.Operator&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6.NumberofCoordinatesX&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;7.MeasurementSnapshot&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;8.FilterPrecision&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;9.and more...&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#333333;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-17" width="279" height="256" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
