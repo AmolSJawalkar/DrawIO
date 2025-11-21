@@ -70,9 +70,6 @@
         <mxCell id="tSVqF8WmTp0xwWjnQpZZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tSVqF8WmTp0xwWjnQpZZ-7" target="tSVqF8WmTp0xwWjnQpZZ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tSVqF8WmTp0xwWjnQpZZ-29" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;MainContent&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="317" width="160" height="26" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
