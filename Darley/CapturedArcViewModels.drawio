@@ -16,20 +16,26 @@
         <mxCell id="WWgqE1CG3wNh3NRnjm8Q-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="680" x="90" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="WWgqE1CG3wNh3NRnjm8Q-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+        <mxCell id="WWgqE1CG3wNh3NRnjm8Q-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TestRunsViewModel" vertex="1">
           <mxGeometry height="330" width="180" x="90" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="WWgqE1CG3wNh3NRnjm8Q-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+        <mxCell id="WWgqE1CG3wNh3NRnjm8Q-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="RunsGraphRenderer" vertex="1">
           <mxGeometry height="330" width="500" x="270" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="WWgqE1CG3wNh3NRnjm8Q-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="650" y="180" as="geometry" />
+        <mxCell id="WWgqE1CG3wNh3NRnjm8Q-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="RunsOperationViewModel" vertex="1">
+          <mxGeometry height="60" width="160" x="610" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="WWgqE1CG3wNh3NRnjm8Q-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="WWgqE1CG3wNh3NRnjm8Q-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TestRunsElement" vertex="1">
           <mxGeometry height="130" width="160" x="100" y="190" as="geometry" />
         </mxCell>
         <mxCell id="WWgqE1CG3wNh3NRnjm8Q-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="130" width="160" x="100" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="WWgqE1CG3wNh3NRnjm8Q-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CapturedTestRunsViewModel" vertex="1">
+          <mxGeometry height="30" width="214" x="360" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="WWgqE1CG3wNh3NRnjm8Q-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TestRunsViewModel" vertex="1">
+          <mxGeometry height="30" width="110" x="125" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
