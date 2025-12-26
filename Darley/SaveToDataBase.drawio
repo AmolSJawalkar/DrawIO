@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8Fzawi772izKwT6OIW6i-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="100" width="690" x="50" y="160" as="geometry" />
+        </mxCell>
         <mxCell id="8Fzawi772izKwT6OIW6i-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="130" width="690" x="50" y="270" as="geometry" />
         </mxCell>
@@ -19,11 +22,8 @@
         <mxCell id="8Fzawi772izKwT6OIW6i-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ITestTemplate" vertex="1">
           <mxGeometry height="35" width="100" x="470" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="8Fzawi772izKwT6OIW6i-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
-          <mxGeometry height="100" width="690" x="50" y="160" as="geometry" />
-        </mxCell>
         <mxCell id="8Fzawi772izKwT6OIW6i-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="DataAccess" vertex="1">
-          <mxGeometry height="50" width="190" x="280" y="180" as="geometry" />
+          <mxGeometry height="50" width="190" x="105" y="180" as="geometry" />
         </mxCell>
         <mxCell id="8Fzawi772izKwT6OIW6i-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
           <mxGeometry height="140" width="700" x="45" y="450" as="geometry" />
@@ -39,6 +39,9 @@
         <mxCell id="8Fzawi772izKwT6OIW6i-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ViewModel" vertex="1">
           <mxGeometry height="40" width="280" x="235" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="8Fzawi772izKwT6OIW6i-19" edge="1" parent="1" source="8Fzawi772izKwT6OIW6i-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8Fzawi772izKwT6OIW6i-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8Fzawi772izKwT6OIW6i-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="DBService" vertex="1">
           <mxGeometry height="40" width="260" x="70" y="280" as="geometry" />
         </mxCell>
@@ -46,7 +49,7 @@
           <mxGeometry height="30" width="100" x="80" y="340" as="geometry" />
         </mxCell>
         <mxCell id="8Fzawi772izKwT6OIW6i-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TestDocumentBuilder" vertex="1">
-          <mxGeometry height="40" width="200" x="440" y="290" as="geometry" />
+          <mxGeometry height="40" width="200" x="500" y="280" as="geometry" />
         </mxCell>
         <mxCell id="8Fzawi772izKwT6OIW6i-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Presentation" vertex="1">
           <mxGeometry height="30" width="60" x="360" y="560" as="geometry" />
@@ -59,6 +62,12 @@
         </mxCell>
         <mxCell id="8Fzawi772izKwT6OIW6i-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Domain" vertex="1">
           <mxGeometry height="30" width="60" x="367" y="106" as="geometry" />
+        </mxCell>
+        <mxCell id="8Fzawi772izKwT6OIW6i-20" edge="1" parent="1" source="8Fzawi772izKwT6OIW6i-11" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="8Fzawi772izKwT6OIW6i-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="320" as="sourcePoint" />
+            <mxPoint x="200" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
