@@ -50,13 +50,13 @@
           <mxGeometry height="25" width="440" y="54" as="geometry" />
         </mxCell>
         <mxCell id="TXYXWxHF_90IeQXZ7tTL-44" parent="TXYXWxHF_90IeQXZ7tTL-41" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="CartoImportService" vertex="1">
-          <mxGeometry height="79" width="420" x="610" y="10" as="geometry" />
+          <mxGeometry height="79" width="500" x="590" y="60" as="geometry" />
         </mxCell>
         <mxCell id="TXYXWxHF_90IeQXZ7tTL-47" parent="TXYXWxHF_90IeQXZ7tTL-44" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" value="&lt;font color=&quot;#2b91af&quot;&gt;ITestDocumentRepository DocumentRepository;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="25" width="420" y="29" as="geometry" />
+          <mxGeometry height="25" width="500" y="29" as="geometry" />
         </mxCell>
         <mxCell id="TXYXWxHF_90IeQXZ7tTL-46" parent="TXYXWxHF_90IeQXZ7tTL-44" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" value="Task&amp;lt;ImportStatus&amp;gt; ImportAsync(string cartoFilePath, ImportOptions options)" vertex="1">
-          <mxGeometry height="25" width="420" y="54" as="geometry" />
+          <mxGeometry height="25" width="500" y="54" as="geometry" />
         </mxCell>
         <mxCell id="TXYXWxHF_90IeQXZ7tTL-23" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="ITestDocument" vertex="1">
           <mxGeometry height="54" width="140" x="100" y="90" as="geometry" />
