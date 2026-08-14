@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="E2bOCZ4Z4hrc4kanxZIR">
-    <mxGraphModel dx="2264" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TXYXWxHF_90IeQXZ7tTL-1" parent="1" style="html=1;whiteSpace=wrap;" value="ITestDocument" vertex="1">
-          <mxGeometry height="50" width="120" x="90" y="70" as="geometry" />
-        </mxCell>
         <mxCell id="TXYXWxHF_90IeQXZ7tTL-3" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="&lt;pre style=&quot;font-family: &amp;quot;Cascadia Mono&amp;quot;; font-size: 9pt;&quot;&gt;&lt;span style=&quot;color:#0000ff&quot;&gt;ICartoExportRepository&lt;/span&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="54" width="350" y="340" as="geometry" />
         </mxCell>
@@ -19,9 +16,6 @@
         <mxCell id="TXYXWxHF_90IeQXZ7tTL-6" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="&lt;pre style=&quot;font-size: 9pt; font-family: &amp;quot;Cascadia Mono&amp;quot;;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;CartoExportRepository&lt;/span&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="54" width="260" x="45" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="TXYXWxHF_90IeQXZ7tTL-10" edge="1" parent="1" source="TXYXWxHF_90IeQXZ7tTL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TXYXWxHF_90IeQXZ7tTL-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TXYXWxHF_90IeQXZ7tTL-11" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="ICartoImportRepository" vertex="1">
           <mxGeometry height="54" width="230" x="500" y="340" as="geometry" />
         </mxCell>
@@ -33,6 +27,12 @@
         </mxCell>
         <mxCell id="TXYXWxHF_90IeQXZ7tTL-14" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="CartoImportRepository" vertex="1">
           <mxGeometry height="54" width="230" x="500" y="482" as="geometry" />
+        </mxCell>
+        <mxCell id="TXYXWxHF_90IeQXZ7tTL-17" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;ITestDocument&lt;/span&gt;" vertex="1">
+          <mxGeometry height="54" width="140" x="110" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TXYXWxHF_90IeQXZ7tTL-19" parent="TXYXWxHF_90IeQXZ7tTL-17" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" value="DocVersion : V1" vertex="1">
+          <mxGeometry height="25" width="140" y="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
